@@ -1,0 +1,48 @@
+.title {
+  margin-top: 50px;
+  font-weight: bold;
+}
+
+.padding {
+  margin-top: 50px;
+}
+
+.copy-padding {
+  padding: 0px 50px;
+}
+
+.name {
+  margin: 20px 0px;
+}
+
+#progressBarPSD, #progressBarIllustrator, #progressBarHTMLCSS{
+    margin: 20px auto;
+    width: 150px;
+    height: 150px;
+    position: relative;
+  }
+ 
+  .circle-1 {
+    background-image: url(../../img/progress_1-2.png);
+    border-radius: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    animation-delay: 5;
+  }
+
+  .circle-2 {
+    background-image: url(../../img/progress_2-2.png);
+    border-radius: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .circle-3 {
+    background-image: url(../../img/progress_3.png);
+    border-radius: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
